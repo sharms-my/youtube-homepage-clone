@@ -19,38 +19,6 @@ export const categories = [
   export const videos = [
     {
       id: "1",
-      title: "CSS Anchor Is The Best New CSS Feature Since Flexbox",
-      channel: {
-        name: "Web Dev Simplified",
-        id: "WebDevSimplified",
-        profileUrl:
-          "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
-      },
-      views: 222536,
-      postedAt: new Date("2023-08-29"),
-      duration: 938,
-      thumbnailUrl: "https://i.ytimg.com/vi/B4Y9Ed4lLAI/maxresdefault.jpg",
-      videoUrl:
-        "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    },
-    {
-      id: "2",
-      title: "NEW Way To Create Variables In JavaScript",
-      channel: {
-        name: "Web Dev Simplified",
-        id: "WebDevSimplified",
-        profileUrl:
-          "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
-      },
-      views: 257136,
-      postedAt: new Date("2023-08-22"),
-      duration: 732,
-      thumbnailUrl: "https://i.ytimg.com/vi/d6a8RymS1zI/maxresdefault.jpg",
-      videoUrl:
-        "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    },
-    {
-      id: "3",
       title: "Front-end developer takes on a CSS battle",
       channel: {
         name: "Kevin Powell",
@@ -66,7 +34,7 @@ export const categories = [
         "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     },
     {
-      id: "4",
+      id: "2",
       title: "Quick guide to CSS focus states",
       channel: {
         name: "Kevin Powell",
@@ -78,6 +46,38 @@ export const categories = [
       postedAt: new Date("2023-9-19"),
       duration: 4343,
       thumbnailUrl: "https://i.ytimg.com/vi/apdD69J4bEc/maxresdefault.jpg",
+      videoUrl:
+        "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    },
+    {
+      id: "3",
+      title: "CSS Anchor Is The Best New CSS Feature Since Flexbox",
+      channel: {
+        name: "Web Dev Simplified",
+        id: "WebDevSimplified",
+        profileUrl:
+          "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+      },
+      views: 222536,
+      postedAt: new Date("2023-08-29"),
+      duration: 938,
+      thumbnailUrl: "https://i.ytimg.com/vi/B4Y9Ed4lLAI/maxresdefault.jpg",
+      videoUrl:
+        "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    },
+    {
+      id: "4",
+      title: "NEW Way To Create Variables In JavaScript",
+      channel: {
+        name: "Web Dev Simplified",
+        id: "WebDevSimplified",
+        profileUrl:
+          "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+      },
+      views: 257136,
+      postedAt: new Date("2023-08-22"),
+      duration: 732,
+      thumbnailUrl: "https://i.ytimg.com/vi/d6a8RymS1zI/maxresdefault.jpg",
       videoUrl:
         "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     },
@@ -145,4 +145,36 @@ export const categories = [
       videoUrl:
         "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     },
+    {
+      id: "9",
+      title: "The Art of Letting Things Happen | A Japanese Philosophy...",
+      channel: {
+        name: "Pursuit of Wonder",
+        id: "Pursuit of Wonder",
+        profileUrl:
+          "https://yt3.ggpht.com/ytc/AIdro_n6sKEuv0Htuprgy4xckZIGNU0HfAfCk8ub7v9_7P1Kru4=s68-c-k-c0x00ffffff-no-rj",
+      },
+      views: 941098,
+      postedAt: new Date("2023-09-09"),
+      duration: 105,
+      thumbnailUrl: "https://i.ytimg.com/vi/JLfRPtyJWZw/hq720.jpg",
+      videoUrl:
+        "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    },
+    {
+      id: "9",
+      title: "The Art of Living an Absurd Existence",
+      channel: {
+        name: "Pursuit of Wonder",
+        id: "Pursuit of Wonder",
+        profileUrl:
+          "https://yt3.ggpht.com/ytc/AIdro_n6sKEuv0Htuprgy4xckZIGNU0HfAfCk8ub7v9_7P1Kru4=s68-c-k-c0x00ffffff-no-rj",
+      },
+      views: 81098,
+      postedAt: new Date("2024-04-28"),
+      duration: 350,
+      thumbnailUrl: "https://i.ytimg.com/vi/LAf0ahnDOR4/maxresdefault.jpg",
+      videoUrl:
+        "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    }
   ]
